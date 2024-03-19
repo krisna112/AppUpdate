@@ -1,6 +1,9 @@
 {
-  "latestVesrsion": "1.8.17"
-  "latestVersionCode": 548,
-  "url": "",
-  "releaseNote": []
+  "latestVesrsion": "1.8.18"
+  "latestVersionCode": 549,
+  "url": "https://drive.usercontent.google.com/download?id=1Yg3Z06lFtJ1Q65awMk5M3sPq2SuBvIHz&export=download&authuser=2&confirm=t&uuid=0cbee489-1a5a-4912-8453-e18a7454aa38&at=APZUnTVkjK6kha-KyxegP2T4ke7Z%3A1710844535040",
+  "releaseNote": [
+    "-Bug Fix",
+    "2 Update Security"
+  ]
 }
