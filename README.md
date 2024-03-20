@@ -1,4 +1,4 @@
-# OCEAN SHARKNET PRIVACY POLICY
+# PRIVACY POLICY
 
 OceanSharkNet is an independent application without affiliation to any company, dedicated to safeguarding your online privacy and anonymity. Our services are fully compliant with the law. We do not monitor, review, record, or store your communication or connection data.
 
