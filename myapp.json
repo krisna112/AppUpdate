@@ -1,16 +1,10 @@
 {
- "latestVersion": "2.8.53",
- "latestVersionCode": 7,
- "url": "https://Client.v3.apk",
- "releaseNotes": [
-  "",
-  "Please Update To New Version",
-  "What's New",
-  "   ✤ Bug Fix",
-  "   ✤ Security Update",
-  "   ✤ Fresh UI",
-  "   ✤ Server Update",
-  "",
-  "💬 Contact Admin from APP to get new Version"
- ]
+  "latestVersion": "2.8.6",
+  "latestVersionCode": 7,
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
 }
