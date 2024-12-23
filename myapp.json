@@ -1,10 +1,11 @@
 {
-  "latestVersion": "5.8.5",
-  "latestVersionCode": 7,
-  "url": "https://example.com/your-app.apk",
-  "releaseNotes": [
-    "- Bug fixes",
-    "- Performance improvements"
-  ]
+    "latestVersionCode": 7,
+    "latestVersionName": "2.8.6",
+    "url": "https://example.com/your-app.apk",
+    "releaseNotes": [
+        "- Perbaikan bug",
+        "- Peningkatan kinerja"
+    ]
 }
+
 
