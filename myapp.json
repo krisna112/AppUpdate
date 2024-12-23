@@ -1,10 +1,10 @@
 {
-  "latestVersion": "2.8.6",
+  "latestVersion": "5.8.5",
   "latestVersionCode": 7,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "url": "https://example.com/your-app.apk",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "- Bug fixes",
+    "- Performance improvements"
   ]
 }
+
