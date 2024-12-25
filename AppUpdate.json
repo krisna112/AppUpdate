@@ -1,0 +1,10 @@
+{
+  "latestVersion": "2.8.6",
+  "latestVersionCode": 7,
+  "url": "https://google.com/app-release.apk",
+  "releaseNotes": [
+    "- Fitur baru 1",
+    "- Fitur baru 2",
+    "- Perbaikan bug"
+  ]
+}
