@@ -2,7 +2,7 @@
   "version": "2.8.7",
   "title": "Github Update",
   "message": "A new version of the app is available. Please update to the latest version.",
-  "devIDs": ["null"],
+  "devIDs": ["76dd9ed11f1509a0"],
   "updateUrl": "https://www.oceansharknet.com"
 }
 
