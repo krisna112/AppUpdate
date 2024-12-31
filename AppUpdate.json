@@ -1,10 +1,4 @@
 {
-  "latestVersion": "2.9.10",
-  "latestVersionCode": 10,
-  "url": "https://google.com/app-release.apk",
-  "releaseNotes": [
-    "- Fitur baru 1",
-    "- Fitur baru 2",
-    "- Perbaikan bug"
-  ]
+  "version": "1.1.0"
 }
+
