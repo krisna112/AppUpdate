@@ -1,8 +1,8 @@
 {
-  "version": "2.8.6",
-  "title": "Update Available",
-  "message": "New version Oceansharknet avilable",
-  "devIDs": ["null"],
+  "version": "2.8.7",
+  "title": "Peringatan",
+  "message": "Selalu ingat jangan menggunakan App di tempat umum!, cukup gunakan di cabin saja",
+  "devIDs": ["dbe767229d84570b"],
   "updateUrl": "https://www.oceansharknet.com"
 }
 
