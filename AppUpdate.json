@@ -2,7 +2,7 @@
   "version": "2.8.7",
   "title": "SPECIAL FOR YOU",
   "message": "Kamu mendapatkan Discount Premium Voucher Hanya 355K/30Days, Buruan Claim!!!",
-  "devIDs": "dbe767229d84570b",
+  "devIDs": ["38eaf3141f10c728", "f57cf81d2af5c4b0", "874c27e5fa574a63", "66da44a7ec7bf852", "dbe767229d84570b"],
   "updateUrl": "https://wa.me/6285156086848?text=Claim%20Voucher"
 }
 
