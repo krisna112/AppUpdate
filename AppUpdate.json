@@ -1,8 +1,8 @@
 {
-  "version": "2.8.7",
+  "version": "2.8.8",
   "title": "NEW APP VERSION V2.8.8",
   "message": "Please update to the newest version of the APP for security update",
-  "devIDs": ["874c27e5fa574a63"],
+  "devIDs": ["null"],
   "updateUrl": "https://github.com/krisna112/AppUpdate/releases/download/2.8.8/Client-OceanSharknet_2.8.8.1.apk"
 }
 
