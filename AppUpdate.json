@@ -1,8 +1,9 @@
 {
-  "version": "2.8.8",
-  "title": "NEW APP VERSION V2.8.8",
-  "message": "Please update to the newest version of the APP for security update",
+  "version": "3.0.6",
+  "title": "NEW APP VERSION V3",
+  "message": "Please update to the newest version of the APP for security update, Full Information in Whatsapp Channel",
   "devIDs": ["null"],
-  "updateUrl": "https://github.com/krisna112/AppUpdate/releases/download/2.8.8/Client-OceanSharknet_2.8.8.1.apk"
+  "updateUrl": "https://ocean.navionex.com/apk/OceanshaknetV3.0.6.apk"
 }
+
 
